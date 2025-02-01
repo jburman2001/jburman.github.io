@@ -1,11 +1,11 @@
 # jburman.github.io
 
-## Projects
-### Project 1
+# Projects
+## Project 1
 - Description
 - Links
 
-### Project 2
+## Project 2
 - Description
 - Links
 
